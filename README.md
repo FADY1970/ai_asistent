@@ -1,1 +1,1 @@
-# ai_asistent
+# ai_assistent
